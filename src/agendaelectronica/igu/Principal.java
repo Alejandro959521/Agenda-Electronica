@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package agendaelectronica.igu;
 
 
@@ -15,7 +12,7 @@ public class Principal extends javax.swing.JFrame {
     String fechanac[] = new String [10];
    
     public Principal() {
-        initComponents();
+          initComponents();
     }
 
     @SuppressWarnings("unchecked")
